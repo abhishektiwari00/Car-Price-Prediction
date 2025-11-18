@@ -26,12 +26,10 @@ venv\Scripts\activate      # Windows
 
 2️⃣ Install Requirements
 
-```pip install -r requirements.txt
-```
+`pip install -r requirements.txt`
 
 3️⃣ Train Model
-```python train.py
-```
+`python train.py`
 
 4️⃣ Run Flask App
 
