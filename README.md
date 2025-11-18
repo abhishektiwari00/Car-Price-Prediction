@@ -152,7 +152,13 @@ A single index.html file includes:
 ✔ No additional JS required
 
 
+----
 
+☁️ Cloud Deployment (Render)
+
+This project can be deployed to the cloud for free using Render Web Services. Below are the exact steps to deploy your Flask + TensorFlow model (model.keras) and UI built with TailwindCSS.
+
+```https://car-price-prediction-j6z7.onrender.com```
 
 
 
